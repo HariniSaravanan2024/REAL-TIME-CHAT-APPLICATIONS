@@ -44,3 +44,7 @@ The integration of **Flask-SocketIO** allows for **bidirectional, real-time comm
 
 Summary
 This chatbot app provides a full-stack example of a real-time web application. It demonstrates how frontend design, JavaScript interactivity, and backend communication work together using **Flask and Socket.IO** to create an engaging user experience. While the bot uses simple keyword matching, it sets a foundation for more advanced conversational agents using NLP in the future.
+
+OUTPUT OF THE TASK :
+
+![Image](https://github.com/user-attachments/assets/3689422c-7c92-4635-83e7-7888c04ada9a)
